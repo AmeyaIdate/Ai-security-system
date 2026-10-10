@@ -1,0 +1,6 @@
+# Versions this pipeline was tested with (Python 3.12.10, macOS)
+tensorflow==2.21.0
+tf_keras==2.21.0
+numpy==2.5.3
+opencv-python==5.0.0.93
+pyserial==3.5
